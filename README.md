@@ -3,7 +3,9 @@
 🎓 2nd Year CSE (AI & ML) Student
 💻 Exploring Python, Machine Learning & Web Development
 🚀 Building projects, learning by doing
+
 🌱 Currently improving problem-solving & DSA
+
 📈 Constantly learning, building & growing in tech
 
 ## 🌐 Socials:
