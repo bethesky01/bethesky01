@@ -1,6 +1,10 @@
-# 💫 About Me:
-I am a second-year Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, with a strong passion for building innovative and impactful tech solutions. I enjoy exploring the intersection of software development and intelligent systems, and I am continuously improving my skills in Python, data structures, algorithms, and modern development frameworks.<br><br>My interests lie in developing real-world applications that solve meaningful problems, especially in areas like machine learning, automation, and full-stack development. I actively work on projects that enhance my practical understanding, including building scalable applications, experimenting with AI models, and participating in hackathons to challenge my creativity and problem-solving abilities.<br><br>I am also keen on learning new technologies and staying updated with industry trends. I believe in writing clean, efficient code and collaborating with others to create high-quality projects. My GitHub reflects my journey of learning, experimenting, and growing as a developer.<br><br>Currently, I am focused on strengthening my core concepts while working on unique and impactful projects that can contribute to my long-term goal of becoming a skilled AI/ML engineer and software developer.<br>
+# Hi,Im Prerna💫
 
+🎓 2nd Year CSE (AI & ML) Student
+💻 Exploring Python, Machine Learning & Web Development
+🚀 Building projects, learning by doing
+🌱 Currently improving problem-solving & DSA
+📈 Constantly learning, building & growing in tech
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prernasingh.here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prerna-singh-79ba61317?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sprerna104@gmail.com) 
